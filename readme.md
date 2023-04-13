@@ -2,7 +2,7 @@
 
 ## Requirements 
 
-Python : Python 3.9
+Python : Python 3.9 or later
 
 Github token : https://github.com/settings/tokens (Generate new token (classic) > check "repo")
 
@@ -24,6 +24,6 @@ The script will asks to set Github token on first launch
 
 If you want to change token then remove created config.ini file and relaunch script
 
-## Known problems 
+## Known issues 
 
 - Some files generate ignored errors mainly because encoding issues
